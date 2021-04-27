@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30709.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Database_AEATE", "Database_AEATE.sqlproj", "{374466A1-60CD-4D0E-8EFE-DBE3DAC2B4FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{374466A1-60CD-4D0E-8EFE-DBE3DAC2B4FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{374466A1-60CD-4D0E-8EFE-DBE3DAC2B4FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{374466A1-60CD-4D0E-8EFE-DBE3DAC2B4FA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{374466A1-60CD-4D0E-8EFE-DBE3DAC2B4FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{374466A1-60CD-4D0E-8EFE-DBE3DAC2B4FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{374466A1-60CD-4D0E-8EFE-DBE3DAC2B4FA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F29B972-F003-4757-B931-D9AACD4B3AA9}
+	EndGlobalSection
+EndGlobal
